@@ -1,0 +1,1 @@
+Deploy straight to production on Friday at 5 p.m. — testing first just delays the surprise for everyone.
